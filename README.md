@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shamim Sorkar</h1>
-<h3 align="center">A passionate Competitive Programmer</h3>
+<h3 align="center">A passionate Competitive Programmer from Bangladesh</h3>
 
 <img align = "right" alt = "coding" width = "400" src = "https://github.com/Shamim-Sorkar/Shamim-Sorkar/blob/main/Coding_Gif.gif">
 
