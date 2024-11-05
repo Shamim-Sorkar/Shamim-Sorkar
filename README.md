@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently studying Computer Science and Engineering Final Semester at MBSTU [https://cse.mbstu.ac.bd](https://cse.mbstu.ac.bd)
 
-- 🌱 I’m currently learning **Graph Theory, Dynamic Programming, Number Theory and String Data Structures**
+- 🌱 I’m currently learning **String algorithms like Hashing, Trie etc**
 
 - 📫 How to reach me **shamimsorkar044@gmail.com**
 
