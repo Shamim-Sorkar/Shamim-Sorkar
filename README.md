@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently studying Computer Science and Engineering Final Semester at MBSTU [https://cse.mbstu.ac.bd](https://cse.mbstu.ac.bd)
 
-- 🌱 I’m currently learning **String algorithms like Hashing, Trie etc**
+- 🌱 I’m currently learning **ASP.NET Framework**
 
 - 📫 How to reach me **shamimsorkar044@gmail.com**
 
