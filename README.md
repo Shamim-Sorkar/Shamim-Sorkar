@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently studying Computer Science and Engineering Final Semester at MBSTU [https://cse.mbstu.ac.bd](https://cse.mbstu.ac.bd)
 
-- 🌱 I’m currently learning **ASP.NET Framework**
+- 🌱 I am currently looking for a position as a **Junior Software Engineer.**
 
 - 📫 How to reach me **shamimsorkar044@gmail.com**
 
