@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamim-sorkar&label=Profile%20views&color=0e75b6&style=flat" alt="shamim-sorkar" /> </p>
 
-- 🔭 I’m currently studying Computer Science and Engineering Final Semester at MBSTU [https://cse.mbstu.ac.bd](https://cse.mbstu.ac.bd)
+- 🔭 I’m currently learning Java Spring Boot.
 
 - 🌱 I am currently looking for a position as a **Junior Software Engineer.**
 
